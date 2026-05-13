@@ -126,7 +126,7 @@
   </section>
 
   <footer>
-    <p>Contact: 98765XXXXX | Munna Mobile Centre © 2026</p>
+    <p>Contact: 9155416433 | Munna Mobile Centre © 2026</p>
   </footer>
 
 </body>
